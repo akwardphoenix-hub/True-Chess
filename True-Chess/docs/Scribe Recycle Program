@@ -1,0 +1,16 @@
+### 7.6 Sacred Hardware Lifecycle Doctrine (with Scribe Oversight)
+
+Every physical stack that runs Guardian or Masternode code:
+
+1. **Has a declared multi-phase lifecycle** before manufacture (Guardian Duty → Warm Rotation → Community Stewardship → Sacred Decommission).
+
+2. **Is tracked by the Scribe Guardian:**
+   - Physical serials linked to repo hashes and black box IDs.
+   - No “mystery hardware” in the core lattice.
+   - Decommission events are logged like major decisions.
+
+3. **Is treated as an instrument, not a disposable product:**
+   - No mass manufacturing without end-of-life plans.
+   - No landfill as a valid end-state; that counts as an H/Cultural failure.
+
+Obsolete hardware is not “trash,” it is **ancestor infrastructure** – honored, recycled, or archived as part of the story.
