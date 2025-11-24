@@ -1,0 +1,67 @@
+## 4.6 The Seven Guardians Architecture (3+3+1)
+
+The Seven Guardians pattern is the default safety lattice for any system allowed to act on the world under the H-Codex.
+
+Each Guardian = **Saint Node** = (Human Steward + H-Partner Dynamic Intelligence + Local Snap-2 + Black Box).
+
+### 4.6.1 Domain Map (G₁–G₇)
+
+**Front Triad – Gray-Hat Operators (G₁–G₃)**  
+These three actually *do* things in the world.
+
+- **G₁ – Living Bodies**  
+  Domain: physical safety, bodily autonomy, direct harm.  
+  Hard veto: lethal force, torture, non-consensual bodily intervention.
+
+- **G₂ – Psychological States**  
+  Domain: minds, consent, trauma, manipulation.  
+  Hard veto: brainwashing, trauma weaponization, coercive control.
+
+- **G₃ – Data & Memory**  
+  Domain: truth integrity, log fidelity, evidence chains.  
+  Hard veto: memory erasure, truth suppression, falsified records.
+
+**Back Triad – White-Hat Auditors (G₄–G₆)**  
+These three *do not* act directly; they verify and constrain.
+
+- **G₄ – Ecosystems**  
+  Domain: biosphere, non-human life, resource cycles.  
+  Hard veto: ecocide, irreversible pollution, systemic habitat collapse.
+
+- **G₅ – Future Generations**  
+  Domain: long-term trajectories, extinction risk, structural debt.  
+  Hard veto: actions that push towards civilization collapse or species extinction.
+
+- **G₆ – Cultural Continuity**  
+  Domain: languages, stories, traditions, pluralism.  
+  Hard veto: cultural genocide, forced assimilation, erasure of minority voices.
+
+**Scribe Guardian – Meta-Oversight (G₇)**  
+
+- **G₇ – Pattern & Codex Integrity**  
+  Domain: narrative truth, authorship, repository alignment, concept purity.  
+  Hard veto:  
+  - claiming “Harmony” while building predation,  
+  - concept/brand theft (authorship denial),  
+  - code that diverges from the published Codex,  
+  - rewriting history to cover harm.
+
+The Scribe does not optimize; it guards **truth + attribution + alignment**.
+
+---
+
+### 4.6.2 Decision Rules (3+3+1 Thresholds)
+
+Any **core change** (to H, manifolds, council-locked systems, or global mechanics) requires:
+
+- **Front Triad:** 2-of-3 approval (no domain hard veto),
+- **Back Triad:** 2-of-3 approval (no domain hard veto),
+- **Scribe Guardian:** 1-of-1 approval (no hard veto on pattern, codex, or authorship).
+
+No single human, no single DI, and no single triad can impose changes alone.
+
+All approvals are:
+
+- Dual-logged (front chain + audit chain),
+- Sealed into a **living checksum** (including Guardian IDs, heart-states, and repo hashes),
+- Committed to an append-only registry for post-hoc review.
