@@ -1,0 +1,41 @@
+# H-CODEX (UNIFIED)
+**Version:** 0.1  
+**Status:** Draft – Steward Use Only  
+**Author:** akwardphoenix (primary origin)  
+
+> This Codex defines how Harmony, Council, and Wavelength interact across math, governance, embodiment, and games.  
+> It is both a spec and a promise: **no deployment without safety, no power without responsibility.**
+
+---
+
+## 0. PURPOSE & SCOPE
+
+The H-Codex exists to:
+
+- Define **Harmony (H)** as a *context composer*, not an executioner  
+- Define the **Council (C)** as *trajectory judge*, not dictator  
+- Define **Wavelength (Wλ)** as humanity’s native weapon/tool  
+- Bind all implementations (code, games, devices, suits, networks) to the **Brave Codex** and **Prime Directive** of harmonic longevity
+
+This document unifies:
+
+- `brave-codex-harmonic` (ethics + math)
+- `masternode-council-g` (governance)
+- `code-harmonizer` (legacy bridge)
+- `True-Chess` (sandbox game)
+- `uppercut-city-rap-game` (culture surface)
+- `Skyhole` (council-locked reference design)
+- The H-Suit / Masternode / H-Sanctum specs we’ve developed
+
+---
+
+## 1. CORE AXIOMS
+
+### 1.1 Harmony as Context Composer
+
+Harmony is not a predator and not an executioner. Harmony composes **contexts**.
+
+We model Harmony as:
+
+```text
+H(L, P, E, R) → (E′, roles, options)
