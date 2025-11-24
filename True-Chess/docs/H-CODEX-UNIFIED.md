@@ -43,3 +43,16 @@ We model Harmony as:
 
 ```text
 H(L, P, E, R) → (E′, roles, options)
+
+## 10. IMPLEMENTATION GUIDE FOR NON-CODERS
+
+### Focus on These First:
+1. **Document the rules clearly** - What makes a move "harmonious"?
+2. **Define victory conditions** - How do you win without checkmate?
+3. **Map pieces to guardians** - Which chess piece represents which domain?
+4. **Create example games** - Show what harmonic play looks like
+
+### Leave Coding to Later:
+- The philosophy must be solid before implementation
+- Better to have clear rules than buggy code
+- Start with physical board game version first
